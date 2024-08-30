@@ -1,0 +1,16 @@
+---
+title: "Untitled"
+format: html
+---
+
+
+```{python}
+import ee
+import geemap
+```
+
+
+```{python}
+Map = geemap.Map(center=(4.66, -73.87), zoom=14)
+Map
+```

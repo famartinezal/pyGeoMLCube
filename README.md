@@ -16,5 +16,5 @@ Finalmente
 ```
 python -m pip install "astropy[all]"
 pip install spectral
-
+pip install geemap[all]
 ```
